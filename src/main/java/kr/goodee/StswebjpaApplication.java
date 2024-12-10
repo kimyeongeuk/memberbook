@@ -17,6 +17,7 @@ public class StswebjpaApplication implements CommandLineRunner {
 		SpringApplication.run(StswebjpaApplication.class, args);
 	}
 	
+	
 	@Override
     public void run(String... args) {
 //        repository.save(new Member("김태형","뷔","btsvui@aaa.bbb"));
